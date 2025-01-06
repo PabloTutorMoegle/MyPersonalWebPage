@@ -1,0 +1,62 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.userIMG {
+  width: 400px;
+  height: auto;
+  border-radius: 200px;
+  filter: drop-shadow(0 0 2em #0cabf5de);
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.divCards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.divlistE {
+  display: "flex";
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+p {
+  color: #fff;
+}
+
+h3 {
+  color: #fff;
+}
+
+.linkbutton {
+  background-color: #0cabf5de;
+  color: #fff;
+  border: none;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.25s, transform 0.25s;
+}
+.linkbutton:hover {
+  background-color: #222;
+  transform: scale(1.05);
+}
+
+.linkcontainer {
+  display: grid;
+  gap: 0.1em;
+}
