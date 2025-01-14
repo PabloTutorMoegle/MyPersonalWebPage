@@ -10,7 +10,7 @@ const AboutPage = lazy(() => import('./pages/About.jsx'))
 const SearchPage = lazy(() => import('./pages/Search.jsx'))
 const ProjectsPage = lazy(() => import('./pages/Projects.jsx'))
 const HobbiesPage = lazy(() => import('./pages/Hobbies.jsx'))
-const MagicTheGatheringPage = lazy(() => import('./pages/HobbiesMagicThegathering.jsx'))
+const MagicTheGatheringPage = lazy(() => import('./pages/HobbiesMagicTheGathering.jsx'))
 
 const appRoutes = [
   {
