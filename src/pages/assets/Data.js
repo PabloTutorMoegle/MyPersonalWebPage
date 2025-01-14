@@ -69,3 +69,45 @@ export const ProjectsData = [
         ]
     }
 ]
+
+export const HobbiesData = [
+    {
+        title: "Video Games",
+        image: "https://www.theinterline.com/wp-content/uploads/2022/11/Fashion-videogame-news-header.jpg",
+        link: "https://www.twitch.tv/pablitoclavito17",
+    },
+    {
+        title: "Surfing",
+        image: "/src/pages/assets/meSurfing.JPG",
+        link: "https://www.instagram.com/pablitoclavito17/"
+    },
+    {
+        title: "Magic the Gathering",
+        image: "https://baronofdice.com/cdn/shop/collections/MTG.jpg?v=1706239039&width=1400",
+        link: "/hobbies/magicthegathering"
+    },
+    {
+        title: "Coding",
+        image: "/src/pages/assets/codeStyle.jpg",
+        link: "https://github.com/PabloTutorMoegle"
+    }
+]
+
+export const MTGData = [
+    {
+        title: "Krenko, Mob Boss",
+        image: "https://www.cardkingdom.com/images/magic-the-gathering/foundations/krenko-mob-boss-55973.jpg"
+    },
+    {
+        title: "Ellivere of the Wild Court",
+        image: "https://cards.scryfall.io/normal/front/4/5/45851394-b8f3-4713-8239-afcb387d47c5.jpg?1692933623"
+    },
+    {
+        title: "Slimfoot, the Stowaway",
+        image: "https://tcg.goodgames.com.au/cdn/shop/files/c37f4a82-b2bf-5e99-986d-e4e67c019f54.png?v=1735118060"
+    },
+    {
+        title: "The Thirteenth Doctor",
+        image: "https://www.smfcorp.net/images/cartes/271/US/4.png"
+    }
+]

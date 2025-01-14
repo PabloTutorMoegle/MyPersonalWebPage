@@ -9,6 +9,8 @@ function HomePage() {
         <Link to={'/about'} className='linkbutton' > About </Link>
         <br/>
         <Link to={'/projects'} className='linkbutton' > Projects </Link>
+        <br/>
+        <Link to={'/hobbies'} className='linkbutton' > Hobbies/Personal Me </Link>
       </div>
     </>
     )

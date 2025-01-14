@@ -1,4 +1,3 @@
-import {Link} from '../Link.jsx'
 import { CardData } from './assets/Data.js'
 import { Card } from './utiles/Card.jsx'
 

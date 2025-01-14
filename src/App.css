@@ -60,3 +60,18 @@ h3 {
   display: grid;
   gap: 0.1em;
 }
+
+.hobbiesImage {
+  border-radius: 8px;
+  border: 2px solid #0cabf5de;
+}
+
+.hobbiesImage:hover {
+  transform: scale(1.1);
+  transition: transform 0.25s;
+}
+
+.mtgImage {
+  border-radius: 8px;
+  border: 2px solid #0cabf5de;
+}

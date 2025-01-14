@@ -1,4 +1,3 @@
-import { Link } from "../Link.jsx";
 import { Box } from "./utiles/Box.jsx";
 import { ProjectsData } from "./assets/Data.js";
 
