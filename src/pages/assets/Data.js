@@ -109,5 +109,9 @@ export const MTGData = [
     {
         title: "The Thirteenth Doctor",
         image: "https://www.smfcorp.net/images/cartes/271/US/4.png"
+    },
+    {
+        title: "Beluna Grandsquall",
+        image: "https://cards.scryfall.io/normal/front/3/f/3f5acc0d-33a6-476f-95ca-a1ad788334dd.jpg?1692939537"
     }
 ]
