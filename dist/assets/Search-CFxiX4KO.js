@@ -1,1 +1,0 @@
-import{j as r,P as s}from"./index-NNrPQSsa.js";function o({routeParams:e}){return r.jsxs(r.Fragment,{children:[r.jsx("h1",{children:"You search for: "}),r.jsxs("h2",{children:[" ",e.query," "]})]})}o.propTypes={routeParams:s.object.isRequired};export{o as default};

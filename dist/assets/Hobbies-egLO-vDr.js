@@ -1,1 +1,0 @@
-import{j as e}from"./index-NNrPQSsa.js";import{H as a}from"./Data-D9lvj9aE.js";function m(){return e.jsxs(e.Fragment,{children:[e.jsx("h2",{children:" This are my hobbies "}),e.jsx("div",{children:a.map((s,r)=>e.jsx("a",{href:s.link,children:e.jsx("img",{src:s.image,alt:s.title,height:250,className:"hobbiesImage"},r)},r))})]})}export{m as default};
