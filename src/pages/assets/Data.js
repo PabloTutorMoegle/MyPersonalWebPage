@@ -78,7 +78,7 @@ export const HobbiesData = [
     },
     {
         title: "Surfing",
-        image: "/src/pages/assets/meSurfing.JPG",
+        image: "/src/pages/assets/meSurfing.jpg",
         link: "https://www.instagram.com/pablitoclavito17/"
     },
     {
