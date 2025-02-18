@@ -3,7 +3,7 @@ import { HobbiesData } from "./assets/Data.js";
 function HobbiesPage() {
     return (
         <>
-            <h2> This are my hobbies </h2>
+            <h2> These are my hobbies </h2>
 
             <div>
                 {/* Here are my hobbies */}

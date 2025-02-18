@@ -39,7 +39,7 @@ export const ProjectsData = [
                 linkE: "",
             },
             {
-                titleE: "- This website ",
+                titleE: "- These website ",
                 linkE: ""
             },
             {
@@ -105,10 +105,6 @@ export const MTGData = [
     {
         title: "Slimfoot, the Stowaway",
         image: "https://tcg.goodgames.com.au/cdn/shop/files/c37f4a82-b2bf-5e99-986d-e4e67c019f54.png?v=1735118060"
-    },
-    {
-        title: "The Thirteenth Doctor",
-        image: "https://www.smfcorp.net/images/cartes/271/US/4.png"
     },
     {
         title: "Beluna Grandsquall",
