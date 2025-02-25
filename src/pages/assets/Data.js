@@ -96,18 +96,22 @@ export const HobbiesData = [
 export const MTGData = [
     {
         title: "Krenko, Mob Boss",
-        image: "https://www.cardkingdom.com/images/magic-the-gathering/foundations/krenko-mob-boss-55973.jpg"
+        image: "https://www.cardkingdom.com/images/magic-the-gathering/foundations/krenko-mob-boss-55973.jpg",
+        link: "https://moxfield.com/decks/oOs1nt13MkSX2ghw6d3oLA"
     },
     {
         title: "Ellivere of the Wild Court",
-        image: "https://cards.scryfall.io/normal/front/4/5/45851394-b8f3-4713-8239-afcb387d47c5.jpg?1692933623"
+        image: "https://cards.scryfall.io/normal/front/4/5/45851394-b8f3-4713-8239-afcb387d47c5.jpg?1692933623",
+        link: "https://moxfield.com/decks/MniGFRcrGUKjWZ9CvO6U4A"
     },
     {
         title: "Slimfoot, the Stowaway",
-        image: "https://tcg.goodgames.com.au/cdn/shop/files/c37f4a82-b2bf-5e99-986d-e4e67c019f54.png?v=1735118060"
+        image: "https://tcg.goodgames.com.au/cdn/shop/files/c37f4a82-b2bf-5e99-986d-e4e67c019f54.png?v=1735118060",
+        link: "https://moxfield.com/decks/7HpFzzlIVEq0hcd9QqfAFw"
     },
     {
         title: "Beluna Grandsquall",
-        image: "https://cards.scryfall.io/normal/front/3/f/3f5acc0d-33a6-476f-95ca-a1ad788334dd.jpg?1692939537"
+        image: "https://cards.scryfall.io/normal/front/3/f/3f5acc0d-33a6-476f-95ca-a1ad788334dd.jpg?1692939537",
+        link: "https://moxfield.com/decks/mYjQOgLTQEmy8VBdBmi7TQ"
     }
 ]

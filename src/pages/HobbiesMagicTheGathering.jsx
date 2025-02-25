@@ -13,7 +13,9 @@ function MagicTheGatheringPage() {
                 {
                     MTGData.map((hobbie, index) => {
                         return (
+                            <a href={hobbie.link} key={index}>
                             <img src={hobbie.image} alt={hobbie.title} key={index} height={400} className="mtgImage"/>
+                            </a>
                         )
                     })
                 }
