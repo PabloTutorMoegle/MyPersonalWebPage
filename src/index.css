@@ -43,7 +43,6 @@ button {
   font-weight: 500;
   font-family: inherit;
   color: #fff;
-  background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -54,23 +53,6 @@ button:hover {
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
-}
-
-.linkbutton {
-  background-color: #0cabf5de;
-  color: #fff;
-  border: none;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: background-color 0.25s, transform 0.25s;
-}
-.linkbutton:hover {
-  background-color: #222;
-  transform: scale(1.05);
 }
 
 .linkcontainer {

@@ -51,7 +51,7 @@ h3 {
   z-index: -1;
 }
 
-.content{
+.content {
   position: relative;
   z-index: 1;
 }
@@ -69,7 +69,8 @@ h3 {
   transition: background-color 0.25s, transform 0.25s;
 }
 .linkbutton:hover {
-  background-color: #222;
+  background-color: #fff;
+  color: #0cabf5de;
   transform: scale(1.05);
 }
 
