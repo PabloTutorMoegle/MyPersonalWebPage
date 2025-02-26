@@ -11,6 +11,8 @@ function HomePage() {
         <Link to={'/projects'} className='linkbutton' > Projects </Link>
         <br/>
         <Link to={'/hobbies'} className='linkbutton' > Hobbies/Personal Me </Link>
+        <br/>
+        <Link to={'/3dprinting'} className='linkbutton' > 3D Printing </Link>
       </div>
     </>
     )

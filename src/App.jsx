@@ -11,6 +11,7 @@ const SearchPage = lazy(() => import('./pages/Search.jsx'))
 const ProjectsPage = lazy(() => import('./pages/Projects.jsx'))
 const HobbiesPage = lazy(() => import('./pages/Hobbies.jsx'))
 const MagicTheGatheringPage = lazy(() => import('./pages/HobbiesMagicTheGathering.jsx'))
+const ThreeDPrinting = lazy(() => import('./pages/3DPrinting.jsx'))
 
 const appRoutes = [
   {
@@ -30,6 +31,7 @@ function App() {
           <Route path='/projects' Component={ProjectsPage} />
           <Route path='/hobbies' Component={HobbiesPage} />
           <Route path='/hobbies/magicthegathering' Component={MagicTheGatheringPage} />
+          <Route path='/3dprinting' Component={ThreeDPrinting} />
         </Router>
       </Suspense>
     </main>
